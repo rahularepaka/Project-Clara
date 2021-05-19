@@ -17,6 +17,12 @@ So we made CLARA (Cable Lifted Automated Robot for Agriculture) is CDPR and her 
 We decided to do Cable Driven Parallel Robot (CDPR) which can carry out different agriculture processes and can work in indoor and outdoor environments
 So we made CLARA (Cable Lifted Automated Robot for Agriculture) is CDPR and her motion is dependent on 8 Motors from which she is suspended using strings
 
+![IMG_20181025_124140316_BURST000_COVER](https://user-images.githubusercontent.com/10435564/118758824-d1326e80-b880-11eb-9908-064022324e80.jpg)
+
+# Logic FLow
+
+![IMG-20181024-WA0009](https://user-images.githubusercontent.com/10435564/118758708-9c261c00-b880-11eb-8434-68d88746c5d5.jpg)
+
 # ⚙️ Parts Required
 
 - Raspberry Pi 3 Model B
@@ -31,15 +37,24 @@ So we made CLARA (Cable Lifted Automated Robot for Agriculture) is CDPR and her 
 - Wood Pillar/Alluminium Extrusion Pipes
 - Swiley Pulleys
 
+# 💻 Working of the CLARA
+
+
+https://user-images.githubusercontent.com/10435564/118758989-1e164500-b881-11eb-94cb-888b16df1c58.mp4
+
 
 # ⌚ Duration of the Project
 September 2018 to Novemeber 2018
+
+https://user-images.githubusercontent.com/10435564/118758953-0939b180-b881-11eb-85ed-7a65d4afd3b6.mp4
+
 
 # 🧑‍🤝‍🧑 Contributors
 
 - Rahul Arepaka
 - Ashwin JJ 
 - Jeff Joman
+- Athul Manoj Kumar (Mentor)
 
 # 📞 Contact
 - rahul.arepaka@gmail.com
