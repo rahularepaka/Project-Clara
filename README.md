@@ -30,7 +30,7 @@ So we made CLARA (Cable Lifted Automated Robot for Agriculture) is CDPR and her 
 - Nylon Fishing Line
 - Wood Pillar/Alluminium Extrusion Pipes
 - Swiley Pulleys
-- 
+
 
 # ⌚ Duration of the Project
 September 2018 to Novemeber 2018
